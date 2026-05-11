@@ -106,6 +106,12 @@ lerobot-calibrate \
 
 ## 迁移标定文件
 
+本仓库已经包含当前 StarAI Violin teleoperator 的标定文件：
+
+```bash
+calibration/teleoperators/starai_violin/my_awesome_staraiviolin_arm.json
+```
+
 默认标定文件位于：
 
 ```bash
@@ -116,7 +122,7 @@ lerobot-calibrate \
 
 ```bash
 mkdir -p ~/.cache/huggingface/lerobot/calibration/teleoperators/starai_violin
-cp my_awesome_staraiviolin_arm.json \
+cp calibration/teleoperators/starai_violin/my_awesome_staraiviolin_arm.json \
   ~/.cache/huggingface/lerobot/calibration/teleoperators/starai_violin/
 ```
 

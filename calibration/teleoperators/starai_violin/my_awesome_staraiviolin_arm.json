@@ -1,0 +1,51 @@
+{
+    "Motor_0": {
+        "id": 0,
+        "drive_mode": 0,
+        "homing_offset": 0,
+        "range_min": 607,
+        "range_max": 3479
+    },
+    "Motor_1": {
+        "id": 1,
+        "drive_mode": 0,
+        "homing_offset": 0,
+        "range_min": 994,
+        "range_max": 3092
+    },
+    "Motor_2": {
+        "id": 2,
+        "drive_mode": 0,
+        "homing_offset": 0,
+        "range_min": 925,
+        "range_max": 3110
+    },
+    "Motor_3": {
+        "id": 3,
+        "drive_mode": 0,
+        "homing_offset": 0,
+        "range_min": 221,
+        "range_max": 3861
+    },
+    "Motor_4": {
+        "id": 4,
+        "drive_mode": 0,
+        "homing_offset": 0,
+        "range_min": 824,
+        "range_max": 3216
+    },
+    "Motor_5": {
+        "id": 5,
+        "drive_mode": 0,
+        "homing_offset": 0,
+        "range_min": 360,
+        "range_max": 3813
+    },
+    "gripper": {
+        "id": 6,
+        "drive_mode": 0,
+        "homing_offset": 0,
+        "range_min": 2045,
+        "range_max": 2783
+    }
+}
